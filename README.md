@@ -31,5 +31,4 @@ To install the YouTube Watch Later Chrome Extension:
 ## Contributing
 Contributions to the YouTube Watch Later Chrome Extension are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request on GitHub.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
