@@ -1,0 +1,22 @@
+.yt-ext-main{
+    margin-top: 50px;
+
+}
+body{
+    background-color:#FF0000;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#youtube-logo{
+    height: 100px;
+    width: auto;
+    margin-left: 0px;
+    margin-top: -30px;
+}
+p{
+    color: black;
+    margin-top: -38px;
+    margin-left: 80px;
+    font-size: small;
+}
