@@ -1,3 +1,8 @@
+import config from './config.js';
+
+console.log(config.apiKey); // This will output the API key
+const api_key=config.apiKey;
+
 window.addEventListener('DOMContentLoaded', (event) => {   //this will load the stack from the storage
     loadStackFromStorage();
 });
@@ -153,7 +158,7 @@ function updateTable() {
     });
 }
 
-const api_key='AIzaSyC12JIrK_zlltWnNlYFMWKRQ69g6uSsIDk';  //api key
+// const api_key='AIzaSyC12JIrK_zlltWnNlYFMWKRQ69g6uSsIDk';  //api key
 
 
 function displayAlert() {  //this is to display the alert
@@ -244,4 +249,4 @@ handleBnState();
 document.getElementById('add_button').addEventListener('click', () => {
     addVideo(); 
 });
-
+//some changes
